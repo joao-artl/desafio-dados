@@ -1,0 +1,6 @@
+ipykernel
+ipython-sql
+requests
+pandas
+matplotlib
+seaborn
